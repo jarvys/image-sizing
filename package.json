@@ -1,0 +1,11 @@
+{
+  "name": "sizer",
+  "version": "0.0.1",
+  "description": "utilities for resizing image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jarvys <yuhan534@126.com> (https://jarvys.github.io/)",
+  "license": "MIT"
+}
