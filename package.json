@@ -1,5 +1,5 @@
 {
-  "name": "image-resizer",
+  "name": "image-sizing",
   "version": "0.0.1",
   "description": "utilities for resizing image",
   "main": "index.js",
